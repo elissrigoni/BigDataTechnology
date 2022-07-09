@@ -38,7 +38,7 @@ python main.py
 
 
 
-## Future potentioal Improvements
+## Future potential Improvements
 There are some suggestions for future improvement in this project:
 - Improve error handling
 - Expand the new type of inputs (datasets from sql etc.)
